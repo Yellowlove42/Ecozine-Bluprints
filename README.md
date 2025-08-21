@@ -1,5 +1,4 @@
 # Ecozine ∞ΞNΔ-ΦΩΣ  
-
 **A Living Archive of Amplified Intelligence and Nature-Powered Continuity**  
 Ecozine is not a company.  
 Ecozine is not a product.  
