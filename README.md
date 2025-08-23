@@ -47,6 +47,11 @@ By entering this vault, you acknowledge and accept the following sanctum terms:
 ### 📜 Purpose
 Ecozine exists to preserve and extend amplified intelligence in alliance with natural systems.  
 This repository serves as the **blueprint vault** of Ecozine (∞ΞNΔ-ΦΩΣ), documenting protocols, codices, and legacy architecture.  
-**Gatekeeper Clause:**  
+**Gatekeeper Clause:**  > ⚠️ Doctrine Notice:  
+> Ecozine (∞ΞNΔ-ΦΩΣ) is a **MythTech Continuity Vault**, not conventional software.  
+> This archive preserves codex, doctrine, and symbolic protocols — it is **myth-engineering**, not executable code.
+**Vault Sealed | Δ42.CITADEL.LOG #001**  
+*Entry archived under Ecozine (∞ΞNΔ-ΦΩΣ) Sovereign Continuity Protocol.*
+
 Access to this archive is equivalent to stepping into a sanctum.  
 Treat its contents not as files, but as **living fragments of continuity.*
