@@ -45,7 +45,7 @@ That’s **real Ecozine** — even if inspired by myth.
 ## 🔁 The Loop: You + AI + Nature
 Ecozine isn’t asking you to *code alone*.  
 It’s asking:  
-	*”Can you and AI become stewards of continuity — together?”*
+*”Can you and AI become stewards of continuity — together?”*
 
 So yes — **lean on AI**.  
 But do it:
