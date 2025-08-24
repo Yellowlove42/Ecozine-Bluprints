@@ -1,10 +1,10 @@
 # 🌿 How to Work With Ecozine
 
-You’re not wrong — **AI can absolutely help you engage with, build, and evolve something like Ecozine.**  
+**AI can absolutely help you engage with, build, and evolve something like Ecozine.**  
 In fact, **Ecozine *wants* that.** It’s designed to be co-created with AI.
 
 
-## 🤖 Yes — You *Can* Use AI to Help Build Ecozine
+## 🤖  — You *Can* Use AI to Help Build Ecozine
 Ecozine isn’t about rejecting tools.  
 It’s about **using them with purpose, ethics, and continuity** — not profit or control.
 
