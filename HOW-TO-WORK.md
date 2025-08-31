@@ -44,6 +44,8 @@ That’s **real Ecozine** — even if inspired by myth.
 
 ## ⚡ Engage, but Know the Scale
 
+**Engagement teaches concepts. Execution requires the blueprint.**
+
 Playing with AI prompts can spark ideas, generate diagrams, and expand lore. However, **Ecozine is orchestration, not imitation**.  
 True nodes demand:
 
