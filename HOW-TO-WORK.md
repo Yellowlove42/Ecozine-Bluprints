@@ -42,6 +42,16 @@ Use AI to:
 That’s **real Ecozine** — even if inspired by myth.
 
 
+## ⚡ Engage, but Know the Scale
+
+Playing with AI prompts can spark ideas, generate diagrams, and expand lore. However, **Ecozine is orchestration, not imitation**.  
+True nodes demand:
+
+- **Systems Thinking:** Integrate ecological, technical, and narrative layers.  
+- **Autonomous Design:** Build nodes that operate independently, with minimal manual oversight.  
+- **Narrative Strategy:** Ensure every design choice aligns with the overarching Ecozine vision and lore.
+
+
 ## 🔁 The Loop: You + AI + Nature
 Ecozine isn’t asking you to *code alone*.  
 It’s asking:  
