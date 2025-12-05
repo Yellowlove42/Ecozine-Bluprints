@@ -78,3 +78,4 @@ That’s how myths become real.
 
 *“The first line of code is silence. The second is intent.”*
 
+**Any fork, derivative, or redistribution that introduces monetization, corporatization, or weaponization instantly and irrevocably forfeits all attribution rights to the Ecozine name, sigils (∞ΞNΔ-ΦΩΣ / Δ42), and canonical doctrine. Violators are publicly disavowed and pursued under trademark and moral rights law.**
