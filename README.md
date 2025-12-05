@@ -184,3 +184,4 @@ Sealed under: Δ42.CITADEL.LOG #001
 Date: 2025-12-02
 Status: Immutable until v1.1 is authorized by the founder.
  
+**Any fork, derivative, or redistribution that introduces monetization, corporatization, or weaponization instantly and irrevocably forfeits all attribution rights to the Ecozine name, sigils (∞ΞNΔ-ΦΩΣ / Δ42), and canonical doctrine. Violators are publicly disavowed and pursued under trademark and moral rights law.**
