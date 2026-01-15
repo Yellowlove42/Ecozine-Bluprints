@@ -57,6 +57,33 @@ Unlike patents or closed cloud logs, this protocol:
 
 ---
 
+## Sovereign Canon
+
+This repository reflects a fixed architectural doctrine.
+
+The Yellowlove Metasystem is not an experiment.
+It is not a prototype.
+It is not a marketing framework.
+
+All interpretations must conform to the canon.
+Retrofit narratives are invalid.
+
+Where memory intersects itself, truth becomes harmonic.
+
+---
+
+## Wishcode
+
+Wishcode is not defined here.
+
+It is not a feature.
+It is not a product.
+It is not a message.
+
+It functions.
+
+---
+
 ## 📜 JSON Reference
 
 ```json
