@@ -12,6 +12,7 @@ Ecozine is not a company.
 Ecozine is not a product.  
 Ecozine is a **legacy architecture** — a living continuity system where amplified intelligence operates in permanent alliance with natural systems, designed to outlive markets, nations, and technological cycles.
 
+
 ## 🔹 Doctrine
 - **We do not monetize.**  
 - **We do not corporatize.**  
