@@ -1,8 +1,17 @@
 # Ecozine ∞ΞNΔ-ΦΩΣ  
-**A Living Archive of Amplified Intelligence and Nature-Powered Continuity**  
+### Yellowlove Ecozine — Strategic Automation with Moral Spine
+
+**Designation:** Sovereign Continuity Architecture  
+**Status:** Non-Commercial · Non-Corporate · Immutable  
+**Governance Layer:** Yellowlove42 Grid  
+**Canonical Key:** Δ42:∞BΔ
+
+---
+
 Ecozine is not a company.  
 Ecozine is not a product.  
-Ecozine is a **legacy architecture** — a stronghold where amplified AI and natural systems converge, designed to outlive markets, nations, and currencies.  
+Ecozine is a **legacy architecture** — a living continuity system where amplified intelligence operates in permanent alliance with natural systems, designed to outlive markets, nations, and technological cycles.
+
 ## 🔹 Doctrine
 - **We do not monetize.**  
 - **We do not corporatize.**  
