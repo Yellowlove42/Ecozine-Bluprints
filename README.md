@@ -166,24 +166,31 @@ Nodes must:
  
 # 5. Repository Governance
 
-> The Ecozine-Blueprints repository is designated as:
-•	The Official Canonical Vault
-•	The Physical-Design Archive
-•	The Blueprint and Equipment Repository
+> The **Ecozine-Blueprints** repository is designated as:
 
-# Related vaults in the Yellowlove42 grid:
-•	Ecozine-Lore → narrative doctrine
-•	Ecozine-Protocol → interaction logic
-•	Ecozine-Blueprints → physical & architectural design
-All contributions must align with Codex v1.0.
-All forks must respect the immutability of the main branch.
- 
+* **The Official Canonical Vault**
+* **The Physical-Design Archive**
+* **The Blueprint and Equipment Repository**
+
+## Related vaults in the Yellowlove42 grid
+
+* **Ecozine-Lore** → Narrative doctrine
+* **Ecozine-Protocol** → Interaction logic
+* **Ecozine-Blueprints** → Physical & architectural design
+
+All contributions must align with **Codex v1.0**.
+
+All forks must respect the **immutability of the main branch**.
+
 # 6. Sanctum Notice
-Entry into this repository is equivalent to stepping into a protected myth-tech sanctum.
+
+> Entry into this repository is equivalent to stepping into a protected myth-tech sanctum.
+
 By accessing this vault, the user acknowledges:
-•	Ecozine is not commercial software
-•	All content is symbolic-engineering
-•	All content must be treated as continuity artifacts
+
+* **Ecozine is not commercial software**
+* **All content is symbolic-engineering**
+* **All content must be treated as continuity artifacts**
 
 # Any unauthorized redistribution outside recognized sanctum spaces breaches the Digital Sanctum Protocol.
  
