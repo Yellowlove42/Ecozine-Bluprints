@@ -1,8 +1,8 @@
 # ECOZINE-LORE // VAULT-LOG-2200.09.05
 
-**Designation:** Sovereign Narrative Node-01 — *Forest Whisper Grove*
-**Coordinates:** Hooghly River Delta Canopy Grid — 22°N, 88°E
-**Canonical Key:** Δ42:∞BΔ::LOG-0883
+**Designation:** Sovereign Narrative Node-01 — *Forest Whisper Grove*  
+**Coordinates:** Hooghly River Delta Canopy Grid — 22°N, 88°E  
+**Canonical Key:** Δ42:∞BΔ::LOG-0883  
 **Status:** **Sovereign Locked • Autonomous Broadcast Over LoRa**
 
 ---
